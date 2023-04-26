@@ -1,0 +1,9 @@
+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
+org-hcxBiOzsFDUTkhdB7FwqaX2N
+   <button id="clear-chat" class="clear-chat">Clear Chat</button>
+   (163, 15, 15, 0.1)
+
+   The assistant is a well-informed AI trained to help users with a variety of topics. It is knowledgeable in web development, programming, science, history, and many other subjects.
+
+   const apiKey = "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";
+    const orgId = "org-hcxBiOzsFDUTkhdB7FwqaX2N";
